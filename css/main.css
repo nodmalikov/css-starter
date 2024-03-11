@@ -1,4 +1,15 @@
 /* GLOBAL */
+:root {
+    --striking-color:
+    --background-color:
+    --heading-color:
+    --paragraph-color:
+    --title-color
+    --subtitle-color:
+    --heading-font-family:
+    --paragraph-font-family:
+}
+
 html {
     height: 100%;
     box-sizing: border-box;
@@ -19,8 +30,9 @@ body {
     flex-direction: column;
     font-family: "Arial", sans-serif;
     background-color: #fff;
+    font-weight: 400;
     font-size: 16px;
-    line-height: 1.5;
+    line-height: 24px;
 }
 
 img {
