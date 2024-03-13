@@ -1,4 +1,4 @@
-/* GLOBAL */
+/* CUSTOM-PROPS */
 :root {
     --striking-color:
     --background-color:
@@ -10,6 +10,7 @@
     --paragraph-font-family:
 }
 
+/* GLOBAL */
 html {
     height: 100%;
     box-sizing: border-box;
